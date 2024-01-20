@@ -16,6 +16,7 @@ To visualize the result, a HUD interface was written using the library [pygame](
 
  HUD view                  |      Bird view
 :------------------------------:|:-------------------------:
+https://youtu.be/hBpiEhYjVfU       | https://youtu.be/n9TGjnB6cDQ
 <video src="video/Media1.mp4" width=500>     |  <video src="video/Media2.mp4" width=500>
 
 To find the shortest path between two given points, the topological graph of the simulator's city map and the A* search from the library were used [NetworkX](https://github.com/NetworkX/NetworkX).
